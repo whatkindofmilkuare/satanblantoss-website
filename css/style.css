@@ -1,0 +1,109 @@
+body {
+    background-color: rgb(27, 27, 27);
+    margin: 0;
+    width: 100%;
+}
+
+#topbar {
+    color: rgb(189, 189, 189);
+    text-align: center;
+    width: 100%;
+    font-family: "Zain", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+
+#profile_photo {
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#profile_photo img {
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgba(86, 105, 83, 0.2);
+    border-width: 15px;
+}
+
+#nick_names {
+    width: 100%;
+    margin-top: 60px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: "Zain", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+#description {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(63, 133, 133);
+}
+
+.title_description {
+    background-color: rgba(38, 85, 85, 0.281);
+    padding: 20px;
+    color: rgb(93, 206, 206);
+    font-family: "Zain", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 29px;
+}
+
+.description_paragraf {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    color: rgb(236, 236, 236);
+    font-family: "Zain", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+}
+
+#links {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    margin-bottom: 150px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(107, 63, 133);
+}
+
+.title_links {
+    background-color: rgba(72, 38, 85, 0.281);
+    padding: 20px;
+    color: rgb(146, 93, 206);
+    font-family: "Zain", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 29px;
+}
+
+.links_paragraf  {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    color: rgb(236, 236, 236);
+    font-family: "Zain", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 40px;
+}
