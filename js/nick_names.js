@@ -1,5 +1,4 @@
- // Array of names for the Ethereum project in different languages
- const names = [
+const names = [
     "Satanblantoss",
     "maostlab",
     "mo3500",
@@ -9,14 +8,17 @@
     "Fr3j@Wh1t3",
     "ph3nU11",
     "M@k$Ym1li4n",
+    "maks",
     "m40$tl48",
     "Mak$ymilian",
+    "chemik",
     "SantosBlantOss",
     "FrejaWhite",
     "Maksymilian Ostr",
     "wh4tk1nd0fm1lkU@r3",
     "M4k$Ym1l1@n 0$tr0w$k1",
     "t3n ch3m1k",
+    "max",
     "phenull",
     "M@k$Ym1l14n 0$tR",
     "S4tan81ant0$$",
@@ -38,7 +40,7 @@ function updateName() {
 }
 
 // Set an interval to update the name every 2 seconds
-setInterval(updateName, 300);
+setInterval(updateName, 310);
 
 // Initial call to set the first name
 updateName();

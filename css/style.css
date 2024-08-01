@@ -108,3 +108,24 @@ body {
     font-size: 40px;
     text-align: center;
 }
+
+#spotify_playlist {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    margin-bottom: 150px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(63, 133, 63);
+}
+
+.spotify_playlist_title {
+    background-color: rgba(43, 85, 38, 0.281);
+    padding: 20px;
+    color: rgb(116, 206, 93);
+    font-family: "Zain", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 29px;
+}
